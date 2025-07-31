@@ -14,8 +14,8 @@ KIIT Kquery is a Retrieval-Augmented Generation (RAG) chatbot web application bu
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
-cd KIIT-Kquery
+git clone https://github.com/rajakash607/KIIT-KQUERY
+cd KIIT-KQUERY
 ```
 
 ### 2. Install Dependencies
